@@ -1,0 +1,3 @@
+#!/bin/bash
+#time tone
+echo "at the sound of the tone, the time is now $(date +%H),$(date +%M),$(date +%S)"|festival --tts; sleep 1; cat ~/msg_tone.wav|aplay 
