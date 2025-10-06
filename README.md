@@ -1,0 +1,2 @@
+# ntpi
+ntp raspi daemon
