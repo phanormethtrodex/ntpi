@@ -12,6 +12,7 @@ the ntp daemonizer script (ntpz.sh) shall perform the following:
 [ntpi@raspi:~$> ntpq -np
 remote           refid      st t when poll reach   delay   offset  jitter
 ==============================================================================
+*129.6.15.29     .NIST.           1 u    1   64    1   42.002  -57.035   4.720 
 *127.127.1.1     .LOCL.           5 l    6   64  377    0.000    0.000   0.001
 ```
 
